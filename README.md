@@ -1,5 +1,28 @@
-# 💫 About Me:
-im a web developer, using mongo db, express and vue js<br>looking to collaborate on web development areas<br>currently learning data science and machine learning<br>student at moi university<br>skills are python, js
+## 👨‍💻 About Me
+
+Hey there! I'm Mordecai Muvandi — but you can call me *thee-grinch* online 😄  
+I'm a passionate and curious full-stack web developer based in Kenya. I enjoy building meaningful digital experiences, from beautiful user interfaces to powerful backend APIs. My journey into tech started with simple curiosity, but over time it's grown into a deep commitment to learning, building, and solving real-world problems using technology.
+
+Currently, I specialize in the **MERN stack** and **Vue.js**, but I’m always exploring new tools and frameworks that improve development workflows or create better user experiences. Whether it's designing intuitive UI components or debugging server-side logic, I love every part of the process.
+
+Beyond web development, I'm actively diving into the world of **Data Science** and **AI** to understand how technology can tackle global challenges. I'm especially interested in how artificial intelligence can be applied to local problems here in Africa — like improving agriculture, transportation, and access to services.
+
+### 🧠 What I'm Learning
+- 🌍 Applying AI to Sustainable Development Goals (SDGs)
+- 📊 Data Visualization & Machine Learning with Python
+- 🛠️ Building scalable web applications with Vue 3 + Node.js
+- 🔒 Cybersecurity fundamentals to make my apps safer
+
+### 🎯 Goals
+- Build open-source tools that help Kenyan developers and startups
+- Contribute to projects that make tech more accessible in Africa
+- Land opportunities that let me grow and give back through code
+
+### 🔗 Fun Facts
+- I’m a problem-solver at heart, and I love tinkering with systems to make them better
+- My coding playlist is mostly lo-fi and Kenyan hip-hop
+- Outside of tech, you’ll probably find me reading, gaming, or thinking up random app ideas
+
 
 
 ## 🌐 Socials:
